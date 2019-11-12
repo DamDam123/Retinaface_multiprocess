@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="p100-2">
+    <serverData>
+      <paths name="p100-2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lihongxia/projects/Retinaface-master" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/lihongxia/代码/Retinaface-master/data_set" />
+            <excludedPath path="/home/lihongxia/projects/Retinaface-master/SCUT-FBP5500_v2_asian" />
+            <excludedPath path="/home/lihongxia/projects/Retinaface-master/mnet.25" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../fnm" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
